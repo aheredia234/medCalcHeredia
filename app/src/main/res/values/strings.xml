@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">medCalcHeredia</string>
+    <string name="title">Convert Patient Weight</string>
+    <string name="hint">Weight of Patient</string>
+    <string name="toKilos">Convert Pounds to Kilograms</string>
+    <string name="toPounds">Convert Kilograms to Pounds</string>
+    <string name="btn">Convert Weight</string>
+</resources>
